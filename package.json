@@ -1,0 +1,14 @@
+{
+  "name": "parodify",
+  "version": "1.0.0",
+  "description": "Validando testes de aceitação",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rodrigo José",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
